@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SIAPMEN</string>
+    <string name="REST_API_HOST">https://medfokinov.fikrirp.com/api.php</string>
+    <string name="NOTIFICATION_CHANNEL_NAME">SIAPMEN Notification Channel</string>
+    <string name="NOTIFICATION_CHANNEL_DESCRIPTION">Sistem Antrean Publikasi Medfo Akinov</string>
+    <string name="NOTIFICATION_CHANNEL_ID">SIAPMEN Notification Channel</string>
+    <string name="NOTIFICATION_CONTENT_TITLE">SIAPMEN</string>
+</resources>
